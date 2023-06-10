@@ -1,4 +1,4 @@
-<img align="right" height="600" src="Picaflor.png"  />
+<img align="right" height="400" src="Picaflor.png"  />
 
 ###
 
