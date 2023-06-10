@@ -12,7 +12,19 @@
 ---
 ### Text Processing Projects
 
-[![](https://img.shields.io/badge/-Riot%20Games-D32936?logo=riot-games&logoColor=white)](https://github.com/BernabeUlloa/NLP_LeagueOfLegends)
+[![](https://img.shields.io/badge/-LoL%20Game%20Predict-D32936?logo=riot-games&logoColor=white)](https://github.com/BernabeUlloa/NLP_LeagueOfLegends)
+
+---
+### Biomedical Image Analysis
+
+---
+### Biomedical Signal Analysis
+
+
+---
+### MOTTO
+
+> “That’s what Chess is all about. One day you give your opponent a lesson, the next day he gives you one” - Bobby Fischer
 
 <!--
 **BernabeUlloa/BernabeUlloa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
