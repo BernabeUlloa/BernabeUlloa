@@ -17,6 +17,8 @@
 ---
 ### Biomedical Image Analysis
 
+[![](https://img.shields.io/badge/-🧠%20Analysis%20of%20Subcortical%20Structures-F7CE2D)](https://github.com/BernabeUlloa/Analysis_of_Subcortical_Structures.git)
+
 ---
 ### Biomedical Signal Analysis
 
