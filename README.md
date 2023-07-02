@@ -21,9 +21,9 @@
 ### Biomedical Signal Analysis
 
 [![](https://img.shields.io/badge/-LoL%20Game%20Predict-D32936?logo=riot-games&logoColor=white)](https://github.com/BernabeUlloa/NLP_LeagueOfLegends)
-[![](https://img.shields.io/badge/-:heartpulse:%20Heartbleed-000)](https://github.com/BernabeUlloa/Peak_Detection_Algorithms.git)
+[![](https://img.shields.io/badge/-💗%20Peak%20Detection%Algorithm-2800FF?)](https://github.com/BernabeUlloa/Peak_Detection_Algorithms.git)
 
----
+---q
 ### MOTTO
 
 > “That’s what Chess is all about. One day you give your opponent a lesson, the next day he gives you one” - Bobby Fischer
